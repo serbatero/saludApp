@@ -6,6 +6,5 @@ MANUAL DE INSTALACIÓN
 - Instalar expo (npm install -g expo-cli)
 - (yarn add expo)
 - Ejecutar (expo start)
-- Run on Android device/emulator
 - Leer código QR desde la app Expo
 
